@@ -1,0 +1,415 @@
+Date,L. species,No. of chigger release,Repellent product,Rep No.,Distance from repleenct compound (cm),Distace from start point,Radius of distance,Repellent results
+10-Jan-22,Li,10,CO2,Rep 1,41,-9,9,walk toward the treatment
+10-Jan-22,Li,10,CO2,Rep 1,32,-18,18,walk toward the treatment
+10-Jan-22,Li,10,CO2,Rep 1,29,-21,21,walk toward the treatment
+10-Jan-22,Li,10,CO2,Rep 1,61,11,11,walk away from treatment
+10-Jan-22,Li,10,CO2,Rep 1,47,-3,3,walk toward the treatment
+10-Jan-22,Li,10,CO2,Rep 1,57,7,7,walk away from treatment
+10-Jan-22,Li,10,CO2,Rep 2,31,-19,19,walk toward the treatment
+10-Jan-22,Li,10,CO2,Rep 2,35,-15,15,walk toward the treatment
+10-Jan-22,Li,10,CO2,Rep 2,29,-21,21,walk toward the treatment
+10-Jan-22,Li,10,CO2,Rep 2,33,-17,17,walk toward the treatment
+10-Jan-22,Li,10,CO2,Rep 2,51,1,1,walk away from treatment
+10-Jan-22,Li,10,CO2,Rep 2,45,-5,5,walk toward the treatment
+10-Jan-22,Li,10,CO2,Rep 2,42,-8,8,walk toward the treatment
+10-Jan-22,Li,10,CO2,Rep 2,43,-7,7,walk toward the treatment
+10-Jan-22,Li,10,CO2,Rep 3,42,-8,8,walk toward the treatment
+10-Jan-22,Li,10,CO2,Rep 3,46,-4,4,walk toward the treatment
+10-Jan-22,Li,10,CO2,Rep 3,51,1,1,walk away from treatment
+10-Jan-22,Li,10,CO2,Rep 3,38,-12,12,walk toward the treatment
+10-Jan-22,Li,10,CO2,Rep 3,26,-24,24,walk toward the treatment
+10-Jan-22,Li,10,CO2,Rep 3,28,-22,22,walk toward the treatment
+1-Feb-22,Li,10,CO2,Rep 4,37,-13,13,walk toward the treatment
+1-Feb-22,Li,10,CO2,Rep 4,38,-12,12,walk toward the treatment
+1-Feb-22,Li,10,CO2,Rep 4,40,-10,10,walk toward the treatment
+1-Feb-22,Li,10,CO2,Rep 4,33,-17,17,walk toward the treatment
+1-Feb-22,Li,10,CO2,Rep 4,48,-2,2,walk toward the treatment
+1-Feb-22,Li,10,CO2,Rep 4,48,-2,2,walk toward the treatment
+1-Feb-22,Li,10,CO2,Rep 4,14,-36,36,walk toward the treatment
+1-Feb-22,Li,10,CO2,Rep 4,23,-27,27,walk toward the treatment
+4-Apr-22,Li,10,CO2,Rep 5,44,-6,6,walk toward the treatment
+4-Apr-22,Li,10,CO2,Rep 5,33,-17,17,walk toward the treatment
+4-Apr-22,Li,10,CO2,Rep 5,20,-30,30,walk toward the treatment
+4-Apr-22,Li,10,CO2,Rep 5,72,22,22,walk away from treatment
+4-Apr-22,Li,10,CO2,Rep 5,38,-12,12,walk toward the treatment
+4-Apr-22,Li,10,CO2,Rep 5,13,-37,37,walk toward the treatment
+10-Jan-22,Li,10,Control,Rep 1,77,27,27,walk away from treatment
+10-Jan-22,Li,10,Control,Rep 1,61,11,11,walk away from treatment
+10-Jan-22,Li,10,Control,Rep 1,65,15,15,walk away from treatment
+10-Jan-22,Li,10,Control,Rep 1,39,-11,11,walk toward the treatment
+10-Jan-22,Li,10,Control,Rep 1,23,-27,27,walk toward the treatment
+10-Jan-22,Li,10,Control,Rep 1,68,18,18,walk away from treatment
+10-Jan-22,Li,10,Control,Rep 2,25,-25,25,walk toward the treatment
+10-Jan-22,Li,10,Control,Rep 2,55,5,5,walk away from treatment
+10-Jan-22,Li,10,Control,Rep 2,59,9,9,walk away from treatment
+10-Jan-22,Li,10,Control,Rep 2,70,20,20,walk away from treatment
+10-Jan-22,Li,10,Control,Rep 2,59,9,9,walk away from treatment
+10-Jan-22,Li,10,Control,Rep 2,51,1,1,walk away from treatment
+10-Jan-22,Li,10,Control,Rep 2,53,3,3,walk away from treatment
+10-Jan-22,Li,10,Control,Rep 3,49,-1,1,walk toward the treatment
+10-Jan-22,Li,10,Control,Rep 3,45,-5,5,walk toward the treatment
+10-Jan-22,Li,10,Control,Rep 3,66,16,16,walk away from treatment
+10-Jan-22,Li,10,Control,Rep 3,76,26,26,walk away from treatment
+10-Jan-22,Li,10,Control,Rep 3,52,2,2,walk away from treatment
+10-Jan-22,Li,10,Control,Rep 3,61,11,11,walk away from treatment
+10-Jan-22,Li,10,Control,Rep 3,81,31,31,walk away from treatment
+8-Aug-22,Li,10,Control,Rep 4,45,-5,5,walk toward the treatment
+8-Aug-22,Li,10,Control,Rep 4,61,11,11,walk away from treatment
+8-Aug-22,Li,10,Control,Rep 4,71,21,21,walk away from treatment
+8-Aug-22,Li,10,Control,Rep 4,70,20,20,walk away from treatment
+8-Aug-22,Li,10,Control,Rep 4,69,19,19,walk away from treatment
+8-Aug-22,Li,10,Control,Rep 4,38,-12,12,walk toward the treatment
+8-Aug-22,Li,10,Control,Rep 4,30,-20,20,walk toward the treatment
+8-Aug-22,Li,10,Control,Rep 5,58,8,8,walk away from treatment
+8-Aug-22,Li,10,Control,Rep 5,65,15,15,walk away from treatment
+8-Aug-22,Li,10,Control,Rep 5,25,-25,25,walk toward the treatment
+8-Aug-22,Li,10,Control,Rep 5,51,1,1,walk away from treatment
+8-Aug-22,Li,10,Control,Rep 5,54,4,4,walk away from treatment
+2-Feb-22,Li,10,DEET Milky lotion + CO2,Rep 1,56,6,6,walk away from treatment
+2-Feb-22,Li,10,DEET Milky lotion + CO2,Rep 1,76,26,26,walk away from treatment
+2-Feb-22,Li,10,DEET Milky lotion + CO2,Rep 1,84,34,34,walk away from treatment
+2-Feb-22,Li,10,DEET Milky lotion + CO2,Rep 1,19,-31,31,walk toward the treatment
+2-Feb-22,Li,10,DEET Milky lotion + CO2,Rep 1,48,-2,2,walk toward the treatment
+2-Feb-22,Li,10,DEET Milky lotion + CO2,Rep 2,62,12,12,walk away from treatment
+2-Feb-22,Li,10,DEET Milky lotion + CO2,Rep 2,62,12,12,walk away from treatment
+2-Feb-22,Li,10,DEET Milky lotion + CO2,Rep 2,60,10,10,walk away from treatment
+2-Feb-22,Li,10,DEET Milky lotion + CO2,Rep 2,42,-8,8,walk toward the treatment
+2-Feb-22,Li,10,DEET Milky lotion + CO2,Rep 2,72,22,22,walk away from treatment
+2-Feb-22,Li,10,DEET Milky lotion + CO2,Rep 2,52,2,2,walk away from treatment
+2-Feb-22,Li,10,DEET Milky lotion + CO2,Rep 2,41,-9,9,walk toward the treatment
+9-Mar-22,Li,10,DEET Milky lotion + CO2,Rep 3,46,-4,4,walk toward the treatment
+9-Mar-22,Li,10,DEET Milky lotion + CO2,Rep 3,64,14,14,walk away from treatment
+9-Mar-22,Li,10,DEET Milky lotion + CO2,Rep 3,52,2,2,walk away from treatment
+9-Mar-22,Li,10,DEET Milky lotion + CO2,Rep 3,52,2,2,walk away from treatment
+9-Mar-22,Li,10,DEET Milky lotion + CO2,Rep 3,61,11,11,walk away from treatment
+9-Mar-22,Li,10,DEET Milky lotion + CO2,Rep 3,58,8,8,walk away from treatment
+9-Mar-22,Li,10,DEET Milky lotion + CO2,Rep 4,48,-2,2,walk toward the treatment
+9-Mar-22,Li,10,DEET Milky lotion + CO2,Rep 4,47,-3,3,walk toward the treatment
+9-Mar-22,Li,10,DEET Milky lotion + CO2,Rep 4,68,18,18,walk away from treatment
+9-Mar-22,Li,10,DEET Milky lotion + CO2,Rep 4,56,6,6,walk away from treatment
+9-Mar-22,Li,10,DEET Milky lotion + CO2,Rep 4,72,22,22,walk away from treatment
+9-Mar-22,Li,10,DEET Milky lotion + CO2,Rep 4,61,11,11,walk away from treatment
+9-Mar-22,Li,10,DEET Milky lotion + CO2,Rep 4,32,-18,18,walk toward the treatment
+9-Mar-22,Li,10,DEET Milky lotion + CO2,Rep 5,43,-7,7,walk toward the treatment
+9-Mar-22,Li,10,DEET Milky lotion + CO2,Rep 5,42,-8,8,walk toward the treatment
+9-Mar-22,Li,10,DEET Milky lotion + CO2,Rep 5,58,8,8,walk away from treatment
+9-Mar-22,Li,10,DEET Milky lotion + CO2,Rep 5,72,22,22,walk away from treatment
+9-Mar-22,Li,10,DEET Milky lotion + CO2,Rep 5,79,29,29,walk away from treatment
+9-Mar-22,Li,10,DEET Milky lotion + CO2,Rep 5,65,15,15,walk away from treatment
+1-Feb-22,Li,10,OFF Sportman + CO2,Rep 1,48,-2,2,walk toward the treatment
+1-Feb-22,Li,10,OFF Sportman + CO2,Rep 1,52,2,2,walk away from treatment
+1-Feb-22,Li,10,OFF Sportman + CO2,Rep 1,52,2,2,walk away from treatment
+1-Feb-22,Li,10,OFF Sportman + CO2,Rep 1,51,1,1,walk away from treatment
+1-Feb-22,Li,10,OFF Sportman + CO2,Rep 1,75,25,25,walk away from treatment
+1-Feb-22,Li,10,OFF Sportman + CO2,Rep 1,61,11,11,walk away from treatment
+16-Mar-22,Li,10,OFF Sportman + CO2,Rep 2,49,-1,1,walk toward the treatment
+16-Mar-22,Li,10,OFF Sportman + CO2,Rep 2,47,-3,3,walk toward the treatment
+16-Mar-22,Li,10,OFF Sportman + CO2,Rep 2,30,-20,20,walk toward the treatment
+16-Mar-22,Li,10,OFF Sportman + CO2,Rep 2,84,34,34,walk away from treatment
+16-Mar-22,Li,10,OFF Sportman + CO2,Rep 2,65,15,15,walk away from treatment
+16-Mar-22,Li,10,OFF Sportman + CO2,Rep 3,50,0,0,No active
+16-Mar-22,Li,10,OFF Sportman + CO2,Rep 3,42,-8,8,walk toward the treatment
+16-Mar-22,Li,10,OFF Sportman + CO2,Rep 3,70,20,20,walk away from treatment
+16-Mar-22,Li,10,OFF Sportman + CO2,Rep 3,57,7,7,walk away from treatment
+16-Mar-22,Li,10,OFF Sportman + CO2,Rep 3,56,6,6,walk away from treatment
+16-Mar-22,Li,10,OFF Sportman + CO2,Rep 3,58,8,8,walk away from treatment
+16-Mar-22,Li,10,OFF Sportman + CO2,Rep 3,53,3,3,walk away from treatment
+18-Mar-22,Li,10,OFF Sportman + CO2,Rep 4,69,19,19,walk away from treatment
+18-Mar-22,Li,10,OFF Sportman + CO2,Rep 4,33,-17,17,walk toward the treatment
+18-Mar-22,Li,10,OFF Sportman + CO2,Rep 4,81,31,31,walk away from treatment
+18-Mar-22,Li,10,OFF Sportman + CO2,Rep 4,81,31,31,walk away from treatment
+18-Mar-22,Li,10,OFF Sportman + CO2,Rep 4,70,20,20,walk away from treatment
+22-Mar-22,Li,10,OFF Sportman + CO2,Rep 5,46,-4,4,walk toward the treatment
+22-Mar-22,Li,10,OFF Sportman + CO2,Rep 5,57,7,7,walk away from treatment
+22-Mar-22,Li,10,OFF Sportman + CO2,Rep 5,51,1,1,walk away from treatment
+22-Mar-22,Li,10,OFF Sportman + CO2,Rep 5,87,37,37,walk away from treatment
+22-Mar-22,Li,10,OFF Sportman + CO2,Rep 5,94,44,44,walk away from treatment
+22-Mar-22,Li,10,OFF Sportman + CO2,Rep 5,95,45,45,walk away from treatment
+22-Mar-22,Li,10,OFF Sportman + CO2,Rep 5,10,-40,40,walk toward the treatment
+22-Mar-22,Li,10,OFF Sportman + CO2,Rep 5,88,38,38,walk away from treatment
+10-Mar-22,Li,10,Ultrathon lotion + CO2,Rep 1,52,2,2,walk away from treatment
+10-Mar-22,Li,10,Ultrathon lotion + CO2,Rep 1,58,8,8,walk away from treatment
+10-Mar-22,Li,10,Ultrathon lotion + CO2,Rep 1,34,-16,16,walk toward the treatment
+10-Mar-22,Li,10,Ultrathon lotion + CO2,Rep 1,33,-17,17,walk toward the treatment
+10-Mar-22,Li,10,Ultrathon lotion + CO2,Rep 1,21,-29,29,walk toward the treatment
+10-Mar-22,Li,10,Ultrathon lotion + CO2,Rep 2,48,-2,2,walk toward the treatment
+10-Mar-22,Li,10,Ultrathon lotion + CO2,Rep 2,50,0,0,No active
+10-Mar-22,Li,10,Ultrathon lotion + CO2,Rep 2,51,1,1,walk away from treatment
+10-Mar-22,Li,10,Ultrathon lotion + CO2,Rep 2,61,11,11,walk away from treatment
+10-Mar-22,Li,10,Ultrathon lotion + CO2,Rep 2,82,32,32,walk away from treatment
+10-Mar-22,Li,10,Ultrathon lotion + CO2,Rep 2,63,13,13,walk away from treatment
+16-Mar-22,Li,10,Ultrathon lotion + CO2,Rep 3,59,9,9,walk away from treatment
+16-Mar-22,Li,10,Ultrathon lotion + CO2,Rep 3,61,11,11,walk away from treatment
+16-Mar-22,Li,10,Ultrathon lotion + CO2,Rep 3,67,17,17,walk away from treatment
+16-Mar-22,Li,10,Ultrathon lotion + CO2,Rep 3,67,17,17,walk away from treatment
+16-Mar-22,Li,10,Ultrathon lotion + CO2,Rep 3,65,15,15,walk away from treatment
+16-Mar-22,Li,10,Ultrathon lotion + CO2,Rep 3,46,-4,4,walk toward the treatment
+16-Mar-22,Li,10,Ultrathon lotion + CO2,Rep 3,68,18,18,walk away from treatment
+16-Mar-22,Li,10,Ultrathon lotion + CO2,Rep 4,76,26,26,walk away from treatment
+16-Mar-22,Li,10,Ultrathon lotion + CO2,Rep 4,34,-16,16,walk toward the treatment
+16-Mar-22,Li,10,Ultrathon lotion + CO2,Rep 4,75,25,25,walk away from treatment
+16-Mar-22,Li,10,Ultrathon lotion + CO2,Rep 4,88,38,38,walk away from treatment
+16-Mar-22,Li,10,Ultrathon lotion + CO2,Rep 4,84,34,34,walk away from treatment
+16-Mar-22,Li,10,Ultrathon lotion + CO2,Rep 4,31,-19,19,walk toward the treatment
+22-Mar-22,Li,10,Ultrathon lotion + CO2,Rep 5,57,7,7,walk away from treatment
+22-Mar-22,Li,10,Ultrathon lotion + CO2,Rep 5,60,10,10,walk away from treatment
+22-Mar-22,Li,10,Ultrathon lotion + CO2,Rep 5,73,23,23,walk away from treatment
+22-Mar-22,Li,10,Ultrathon lotion + CO2,Rep 5,32,-18,18,walk toward the treatment
+22-Mar-22,Li,10,Ultrathon lotion + CO2,Rep 5,29,-21,21,walk toward the treatment
+22-Mar-22,Li,10,Ultrathon lotion + CO2,Rep 5,51,1,1,walk away from treatment
+23-Mar-22,Li,10,Ultrathon lotion + CO2,Rep 6,50,0,0,No active
+23-Mar-22,Li,10,Ultrathon lotion + CO2,Rep 6,63,13,13,walk away from treatment
+23-Mar-22,Li,10,Ultrathon lotion + CO2,Rep 6,77,27,27,walk away from treatment
+23-Mar-22,Li,10,Ultrathon lotion + CO2,Rep 6,84,34,34,walk away from treatment
+23-Mar-22,Li,10,Ultrathon lotion + CO2,Rep 6,20,-30,30,walk toward the treatment
+23-Mar-22,Li,10,Ultrathon lotion + CO2,Rep 6,57,7,7,walk away from treatment
+10-Mar-22,Li,10,Chigg Away + CO2,Rep 1,47,-3,3,walk toward the treatment
+10-Mar-22,Li,10,Chigg Away + CO2,Rep 1,48,-2,2,walk toward the treatment
+10-Mar-22,Li,10,Chigg Away + CO2,Rep 1,57,7,7,walk away from treatment
+10-Mar-22,Li,10,Chigg Away + CO2,Rep 1,34,-16,16,walk toward the treatment
+10-Mar-22,Li,10,Chigg Away + CO2,Rep 1,64,14,14,walk away from treatment
+10-Mar-22,Li,10,Chigg Away + CO2,Rep 1,53,3,3,walk away from treatment
+10-Mar-22,Li,10,Chigg Away + CO2,Rep 1,79,29,29,walk away from treatment
+10-Mar-22,Li,10,Chigg Away + CO2,Rep 2,66,16,16,walk away from treatment
+10-Mar-22,Li,10,Chigg Away + CO2,Rep 2,69,19,19,walk away from treatment
+10-Mar-22,Li,10,Chigg Away + CO2,Rep 2,24,-26,26,walk toward the treatment
+10-Mar-22,Li,10,Chigg Away + CO2,Rep 2,81,31,31,walk away from treatment
+10-Mar-22,Li,10,Chigg Away + CO2,Rep 2,77,27,27,walk away from treatment
+15-Mar-22,Li,10,Chigg Away + CO2,Rep 3,63,13,13,walk away from treatment
+15-Mar-22,Li,10,Chigg Away + CO2,Rep 3,65,15,15,walk away from treatment
+15-Mar-22,Li,10,Chigg Away + CO2,Rep 3,65,15,15,walk away from treatment
+15-Mar-22,Li,10,Chigg Away + CO2,Rep 3,67,17,17,walk away from treatment
+15-Mar-22,Li,10,Chigg Away + CO2,Rep 3,52,2,2,walk away from treatment
+15-Mar-22,Li,10,Chigg Away + CO2,Rep 3,78,28,28,walk away from treatment
+15-Mar-22,Li,10,Chigg Away + CO2,Rep 3,77,27,27,walk away from treatment
+15-Mar-22,Li,10,Chigg Away + CO2,Rep 3,50,0,0,No active
+15-Mar-22,Li,10,Chigg Away + CO2,Rep 4,47,-3,3,walk toward the treatment
+15-Mar-22,Li,10,Chigg Away + CO2,Rep 4,53,3,3,walk away from treatment
+15-Mar-22,Li,10,Chigg Away + CO2,Rep 4,73,23,23,walk away from treatment
+15-Mar-22,Li,10,Chigg Away + CO2,Rep 4,82,32,32,walk away from treatment
+15-Mar-22,Li,10,Chigg Away + CO2,Rep 4,65,15,15,walk away from treatment
+15-Mar-22,Li,10,Chigg Away + CO2,Rep 4,68,18,18,walk away from treatment
+15-Mar-22,Li,10,Chigg Away + CO2,Rep 4,50,0,0,No active
+15-Mar-22,Li,10,Chigg Away + CO2,Rep 4,28,-22,22,walk toward the treatment
+15-Mar-22,Li,10,Chigg Away + CO2,Rep 4,79,29,29,walk away from treatment
+22-Mar-22,Li,10,Chigg Away + CO2,Rep 5,68,18,18,walk away from treatment
+22-Mar-22,Li,10,Chigg Away + CO2,Rep 5,82,32,32,walk away from treatment
+22-Mar-22,Li,10,Chigg Away + CO2,Rep 5,38,-12,12,walk toward the treatment
+22-Mar-22,Li,10,Chigg Away + CO2,Rep 5,71,21,21,walk away from treatment
+22-Mar-22,Li,10,Chigg Away + CO2,Rep 5,67,17,17,walk away from treatment
+22-Mar-22,Li,10,Chigg Away + CO2,Rep 5,77,27,27,walk away from treatment
+22-Mar-22,Li,10,Chigg Away + CO2,Rep 5,65,15,15,walk away from treatment
+15-Mar-22,Li,10,Natrapel + CO2,Rep 1,34,-16,16,walk toward the treatment
+15-Mar-22,Li,10,Natrapel + CO2,Rep 1,58,8,8,walk away from treatment
+15-Mar-22,Li,10,Natrapel + CO2,Rep 1,53,3,3,walk away from treatment
+15-Mar-22,Li,10,Natrapel + CO2,Rep 1,77,27,27,walk away from treatment
+15-Mar-22,Li,10,Natrapel + CO2,Rep 1,75,25,25,walk away from treatment
+15-Mar-22,Li,10,Natrapel + CO2,Rep 1,76,26,26,walk away from treatment
+15-Mar-22,Li,10,Natrapel + CO2,Rep 1,56,6,6,walk away from treatment
+15-Mar-22,Li,10,Natrapel + CO2,Rep 2,57,7,7,walk away from treatment
+15-Mar-22,Li,10,Natrapel + CO2,Rep 2,56,6,6,walk away from treatment
+15-Mar-22,Li,10,Natrapel + CO2,Rep 2,56,6,6,walk away from treatment
+15-Mar-22,Li,10,Natrapel + CO2,Rep 2,56,6,6,walk away from treatment
+15-Mar-22,Li,10,Natrapel + CO2,Rep 2,56,6,6,walk away from treatment
+15-Mar-22,Li,10,Natrapel + CO2,Rep 2,56,6,6,walk away from treatment
+15-Mar-22,Li,10,Natrapel + CO2,Rep 2,68,18,18,walk away from treatment
+15-Mar-22,Li,10,Natrapel + CO2,Rep 2,51,1,1,walk away from treatment
+15-Mar-22,Li,10,Natrapel + CO2,Rep 2,74,24,24,walk away from treatment
+17-Mar-22,Li,10,Natrapel + CO2,Rep 3,61,11,11,walk away from treatment
+17-Mar-22,Li,10,Natrapel + CO2,Rep 3,82,32,32,walk away from treatment
+17-Mar-22,Li,10,Natrapel + CO2,Rep 3,83,33,33,walk away from treatment
+17-Mar-22,Li,10,Natrapel + CO2,Rep 3,68,18,18,walk away from treatment
+17-Mar-22,Li,10,Natrapel + CO2,Rep 3,66,16,16,walk away from treatment
+17-Mar-22,Li,10,Natrapel + CO2,Rep 3,64,14,14,walk away from treatment
+17-Mar-22,Li,10,Natrapel + CO2,Rep 3,73,23,23,walk away from treatment
+17-Mar-22,Li,10,Natrapel + CO2,Rep 3,87,37,37,walk away from treatment
+17-Mar-22,Li,10,Natrapel + CO2,Rep 4,56,6,6,walk away from treatment
+17-Mar-22,Li,10,Natrapel + CO2,Rep 4,65,15,15,walk away from treatment
+17-Mar-22,Li,10,Natrapel + CO2,Rep 4,91,41,41,walk away from treatment
+17-Mar-22,Li,10,Natrapel + CO2,Rep 4,43,-7,7,walk toward the treatment
+17-Mar-22,Li,10,Natrapel + CO2,Rep 4,21,-29,29,walk toward the treatment
+17-Mar-22,Li,10,Natrapel + CO2,Rep 4,88,38,38,walk away from treatment
+17-Mar-22,Li,10,Natrapel + CO2,Rep 4,88,38,38,walk away from treatment
+21-Mar-22,Li,10,Natrapel + CO2,Rep 5,45,-5,5,walk toward the treatment
+21-Mar-22,Li,10,Natrapel + CO2,Rep 5,60,10,10,walk away from treatment
+21-Mar-22,Li,10,Natrapel + CO2,Rep 5,87,37,37,walk away from treatment
+21-Mar-22,Li,10,Natrapel + CO2,Rep 5,64,14,14,walk away from treatment
+21-Mar-22,Li,10,Natrapel + CO2,Rep 5,23,-27,27,walk toward the treatment
+21-Mar-22,Li,10,Natrapel + CO2,Rep 5,26,-24,24,walk toward the treatment
+21-Mar-22,Li,10,Natrapel + CO2,Rep 5,50,0,0,No active
+9-Aug-22,Li,10,Nootkatone-844 + CO2,Rep 1,32,-18,18,walk toward the treatment
+9-Aug-22,Li,10,Nootkatone-844 + CO2,Rep 1,31,-19,19,walk toward the treatment
+9-Aug-22,Li,10,Nootkatone-844 + CO2,Rep 1,50,0,0,No active
+9-Aug-22,Li,10,Nootkatone-844 + CO2,Rep 1,50,0,0,No active
+9-Aug-22,Li,10,Nootkatone-844 + CO2,Rep 1,37,-13,13,walk toward the treatment
+9-Aug-22,Li,10,Nootkatone-844 + CO2,Rep 1,75,25,25,walk away from treatment
+9-Aug-22,Li,10,Nootkatone-844 + CO2,Rep 1,54,4,4,walk away from treatment
+9-Aug-22,Li,10,Nootkatone-844 + CO2,Rep 1,67,17,17,walk away from treatment
+23-Aug-22,Li,10,Nootkatone-844 + CO2,Rep 2,51,1,1,walk away from treatment
+23-Aug-22,Li,10,Nootkatone-844 + CO2,Rep 2,79,29,29,walk away from treatment
+23-Aug-22,Li,10,Nootkatone-844 + CO2,Rep 2,58,8,8,walk away from treatment
+23-Aug-22,Li,10,Nootkatone-844 + CO2,Rep 2,21,-29,29,walk toward the treatment
+23-Aug-22,Li,10,Nootkatone-844 + CO2,Rep 2,56,6,6,walk away from treatment
+7-Sep-22,Li,10,Nootkatone-844 + CO2,Rep 3,53,3,3,walk away from treatment
+7-Sep-22,Li,10,Nootkatone-844 + CO2,Rep 3,55,5,5,walk away from treatment
+7-Sep-22,Li,10,Nootkatone-844 + CO2,Rep 3,70,20,20,walk away from treatment
+7-Sep-22,Li,10,Nootkatone-844 + CO2,Rep 3,38,-12,12,walk toward the treatment
+7-Sep-22,Li,10,Nootkatone-844 + CO2,Rep 3,44,-6,6,walk toward the treatment
+7-Sep-22,Li,10,Nootkatone-844 + CO2,Rep 3,73,23,23,walk away from treatment
+7-Sep-22,Li,10,Nootkatone-844 + CO2,Rep 3,11,-39,39,walk toward the treatment
+7-Sep-22,Li,10,Nootkatone-844 + CO2,Rep 4,85,35,35,walk away from treatment
+7-Sep-22,Li,10,Nootkatone-844 + CO2,Rep 4,81,31,31,walk away from treatment
+7-Sep-22,Li,10,Nootkatone-844 + CO2,Rep 4,12,-38,38,walk toward the treatment
+7-Sep-22,Li,10,Nootkatone-844 + CO2,Rep 4,74,24,24,walk away from treatment
+7-Sep-22,Li,10,Nootkatone-844 + CO2,Rep 4,40,-10,10,walk toward the treatment
+7-Sep-22,Li,10,Nootkatone-844 + CO2,Rep 4,24,-26,26,walk toward the treatment
+7-Sep-22,Li,10,Nootkatone-844 + CO2,Rep 4,24,-26,26,walk toward the treatment
+7-Sep-22,Li,10,Nootkatone-844 + CO2,Rep 4,12,-38,38,walk toward the treatment
+7-Sep-22,Li,10,Nootkatone-844 + CO2,Rep 5,73,23,23,walk away from treatment
+7-Sep-22,Li,10,Nootkatone-844 + CO2,Rep 5,40,-10,10,walk toward the treatment
+7-Sep-22,Li,10,Nootkatone-844 + CO2,Rep 5,13,-37,37,walk toward the treatment
+7-Sep-22,Li,10,Nootkatone-844 + CO2,Rep 5,35,-15,15,walk toward the treatment
+7-Sep-22,Li,10,Nootkatone-844 + CO2,Rep 5,11,-39,39,walk toward the treatment
+7-Sep-22,Li,10,Nootkatone-844 + CO2,Rep 5,19,-31,31,walk toward the treatment
+7-Sep-22,Li,10,Nootkatone-844 + CO2,Rep 5,90,40,40,walk away from treatment
+7-Sep-22,Li,10,Nootkatone-844 + CO2,Rep 5,17,-33,33,walk toward the treatment
+10-Aug-22,Li,10,Nootkatone-845 + CO2,Rep 1,27,-23,23,walk toward the treatment
+10-Aug-22,Li,10,Nootkatone-845 + CO2,Rep 1,18,-32,32,walk toward the treatment
+10-Aug-22,Li,10,Nootkatone-845 + CO2,Rep 1,6,-44,44,walk toward the treatment
+10-Aug-22,Li,10,Nootkatone-845 + CO2,Rep 1,78,28,28,walk away from treatment
+10-Aug-22,Li,10,Nootkatone-845 + CO2,Rep 1,86,36,36,walk away from treatment
+10-Aug-22,Li,10,Nootkatone-845 + CO2,Rep 1,44,-6,6,walk toward the treatment
+24-Aug-22,Li,10,Nootkatone-845 + CO2,Rep 2,78,28,28,walk away from treatment
+24-Aug-22,Li,10,Nootkatone-845 + CO2,Rep 2,20,-30,30,walk toward the treatment
+24-Aug-22,Li,10,Nootkatone-845 + CO2,Rep 2,41,-9,9,walk toward the treatment
+24-Aug-22,Li,10,Nootkatone-845 + CO2,Rep 2,51,1,1,walk away from treatment
+24-Aug-22,Li,10,Nootkatone-845 + CO2,Rep 2,88,38,38,walk away from treatment
+24-Aug-22,Li,10,Nootkatone-845 + CO2,Rep 2,73,23,23,walk away from treatment
+24-Aug-22,Li,10,Nootkatone-845 + CO2,Rep 2,10,-40,40,walk toward the treatment
+24-Aug-22,Li,10,Nootkatone-845 + CO2,Rep 2,0,-50,50,walk toward the treatment
+24-Aug-22,Li,10,Nootkatone-845 + CO2,Rep 3,75,25,25,walk away from treatment
+24-Aug-22,Li,10,Nootkatone-845 + CO2,Rep 3,20,-30,30,walk toward the treatment
+24-Aug-22,Li,10,Nootkatone-845 + CO2,Rep 3,20,-30,30,walk toward the treatment
+24-Aug-22,Li,10,Nootkatone-845 + CO2,Rep 3,61,11,11,walk away from treatment
+24-Aug-22,Li,10,Nootkatone-845 + CO2,Rep 3,64,14,14,walk away from treatment
+7-Sep-22,Li,10,Nootkatone-845 + CO2,Rep 4,45,-5,5,walk toward the treatment
+7-Sep-22,Li,10,Nootkatone-845 + CO2,Rep 4,60,10,10,walk away from treatment
+7-Sep-22,Li,10,Nootkatone-845 + CO2,Rep 4,76,26,26,walk away from treatment
+7-Sep-22,Li,10,Nootkatone-845 + CO2,Rep 4,76,26,26,walk away from treatment
+7-Sep-22,Li,10,Nootkatone-845 + CO2,Rep 4,52,2,2,walk away from treatment
+7-Sep-22,Li,10,Nootkatone-845 + CO2,Rep 4,48,-2,2,walk toward the treatment
+7-Sep-22,Li,10,Nootkatone-845 + CO2,Rep 5,55,5,5,walk away from treatment
+7-Sep-22,Li,10,Nootkatone-845 + CO2,Rep 5,37,-13,13,walk toward the treatment
+7-Sep-22,Li,10,Nootkatone-845 + CO2,Rep 5,39,-11,11,walk toward the treatment
+7-Sep-22,Li,10,Nootkatone-845 + CO2,Rep 5,53,3,3,walk away from treatment
+7-Sep-22,Li,10,Nootkatone-845 + CO2,Rep 5,45,-5,5,walk toward the treatment
+7-Sep-22,Li,10,Nootkatone-845 + CO2,Rep 5,58,8,8,walk away from treatment
+7-Sep-22,Li,10,Nootkatone-845 + CO2,Rep 5,75,25,25,walk away from treatment
+10-Aug-22,Li,10,Nootkatone-747 + CO2,Rep 1,65,15,15,walk away from treatment
+10-Aug-22,Li,10,Nootkatone-747 + CO2,Rep 1,33,-17,17,walk toward the treatment
+10-Aug-22,Li,10,Nootkatone-747 + CO2,Rep 1,15,-35,35,walk toward the treatment
+10-Aug-22,Li,10,Nootkatone-747 + CO2,Rep 1,11,-39,39,walk toward the treatment
+10-Aug-22,Li,10,Nootkatone-747 + CO2,Rep 1,40,-10,10,walk toward the treatment
+10-Aug-22,Li,10,Nootkatone-747 + CO2,Rep 1,81,31,31,walk away from treatment
+24-Aug-22,Li,10,Nootkatone-747 + CO2,Rep 2,46,-4,4,walk toward the treatment
+24-Aug-22,Li,10,Nootkatone-747 + CO2,Rep 2,72,22,22,walk away from treatment
+24-Aug-22,Li,10,Nootkatone-747 + CO2,Rep 2,31,-19,19,walk toward the treatment
+24-Aug-22,Li,10,Nootkatone-747 + CO2,Rep 2,19,-31,31,walk toward the treatment
+24-Aug-22,Li,10,Nootkatone-747 + CO2,Rep 2,19,-31,31,walk toward the treatment
+24-Aug-22,Li,10,Nootkatone-747 + CO2,Rep 2,17,-33,33,walk toward the treatment
+24-Aug-22,Li,10,Nootkatone-747 + CO2,Rep 2,60,10,10,walk away from treatment
+24-Aug-22,Li,10,Nootkatone-747 + CO2,Rep 2,91,41,41,walk away from treatment
+24-Aug-22,Li,10,Nootkatone-747 + CO2,Rep 2,39,-11,11,walk toward the treatment
+24-Aug-22,Li,10,Nootkatone-747 + CO2,Rep 3,43,-7,7,walk toward the treatment
+24-Aug-22,Li,10,Nootkatone-747 + CO2,Rep 3,78,28,28,walk away from treatment
+24-Aug-22,Li,10,Nootkatone-747 + CO2,Rep 3,43,-7,7,walk toward the treatment
+24-Aug-22,Li,10,Nootkatone-747 + CO2,Rep 3,22,-28,28,walk toward the treatment
+24-Aug-22,Li,10,Nootkatone-747 + CO2,Rep 3,39,-11,11,walk toward the treatment
+24-Aug-22,Li,10,Nootkatone-747 + CO2,Rep 3,76,26,26,walk away from treatment
+24-Aug-22,Li,10,Nootkatone-747 + CO2,Rep 3,77,27,27,walk away from treatment
+24-Aug-22,Li,10,Nootkatone-747 + CO2,Rep 3,84,34,34,walk away from treatment
+24-Aug-22,Li,10,Nootkatone-747 + CO2,Rep 3,30,-20,20,walk toward the treatment
+8-Sep-22,Li,10,Nootkatone-747 + CO2,Rep 4,42,-8,8,walk toward the treatment
+8-Sep-22,Li,10,Nootkatone-747 + CO2,Rep 4,68,18,18,walk away from treatment
+8-Sep-22,Li,10,Nootkatone-747 + CO2,Rep 4,71,21,21,walk away from treatment
+8-Sep-22,Li,10,Nootkatone-747 + CO2,Rep 4,52,2,2,walk away from treatment
+8-Sep-22,Li,10,Nootkatone-747 + CO2,Rep 4,25,-25,25,walk toward the treatment
+8-Sep-22,Li,10,Nootkatone-747 + CO2,Rep 4,36,-14,14,walk toward the treatment
+8-Sep-22,Li,10,Nootkatone-747 + CO2,Rep 4,40,-10,10,walk toward the treatment
+8-Sep-22,Li,10,Nootkatone-747 + CO2,Rep 5,49,-1,1,walk toward the treatment
+8-Sep-22,Li,10,Nootkatone-747 + CO2,Rep 5,83,33,33,walk away from treatment
+8-Sep-22,Li,10,Nootkatone-747 + CO2,Rep 5,19,-31,31,walk toward the treatment
+8-Sep-22,Li,10,Nootkatone-747 + CO2,Rep 5,85,35,35,walk away from treatment
+8-Sep-22,Li,10,Nootkatone-747 + CO2,Rep 5,85,35,35,walk away from treatment
+8-Sep-22,Li,10,Nootkatone-747 + CO2,Rep 5,44,-6,6,walk toward the treatment
+8-Sep-22,Li,10,Nootkatone-747 + CO2,Rep 5,17,-33,33,walk toward the treatment
+11-Aug-22,Li,10,Nootkatone-610 + CO2,Rep 1,58,8,8,walk away from treatment
+11-Aug-22,Li,10,Nootkatone-610 + CO2,Rep 1,57,7,7,walk away from treatment
+11-Aug-22,Li,10,Nootkatone-610 + CO2,Rep 1,45,-5,5,walk toward the treatment
+11-Aug-22,Li,10,Nootkatone-610 + CO2,Rep 1,82,32,32,walk away from treatment
+11-Aug-22,Li,10,Nootkatone-610 + CO2,Rep 1,43,-7,7,walk toward the treatment
+11-Aug-22,Li,10,Nootkatone-610 + CO2,Rep 1,83,33,33,walk away from treatment
+25-Aug-22,Li,10,Nootkatone-610 + CO2,Rep 2,46,-4,4,walk toward the treatment
+25-Aug-22,Li,10,Nootkatone-610 + CO2,Rep 2,52,2,2,walk away from treatment
+25-Aug-22,Li,10,Nootkatone-610 + CO2,Rep 2,54,4,4,walk away from treatment
+25-Aug-22,Li,10,Nootkatone-610 + CO2,Rep 2,54,4,4,walk away from treatment
+25-Aug-22,Li,10,Nootkatone-610 + CO2,Rep 2,77,27,27,walk away from treatment
+25-Aug-22,Li,10,Nootkatone-610 + CO2,Rep 2,78,28,28,walk away from treatment
+25-Aug-22,Li,10,Nootkatone-610 + CO2,Rep 2,86,36,36,walk away from treatment
+25-Aug-22,Li,10,Nootkatone-610 + CO2,Rep 3,72,22,22,walk away from treatment
+25-Aug-22,Li,10,Nootkatone-610 + CO2,Rep 3,85,35,35,walk away from treatment
+25-Aug-22,Li,10,Nootkatone-610 + CO2,Rep 3,41,-9,9,walk toward the treatment
+25-Aug-22,Li,10,Nootkatone-610 + CO2,Rep 3,33,-17,17,walk toward the treatment
+25-Aug-22,Li,10,Nootkatone-610 + CO2,Rep 3,80,30,30,walk away from treatment
+25-Aug-22,Li,10,Nootkatone-610 + CO2,Rep 3,90,40,40,walk away from treatment
+25-Aug-22,Li,10,Nootkatone-610 + CO2,Rep 3,36,-14,14,walk toward the treatment
+25-Aug-22,Li,10,Nootkatone-610 + CO2,Rep 3,94,44,44,walk away from treatment
+8-Sep-22,Li,10,Nootkatone-610 + CO2,Rep 4,60,10,10,walk away from treatment
+8-Sep-22,Li,10,Nootkatone-610 + CO2,Rep 4,60,10,10,walk away from treatment
+8-Sep-22,Li,10,Nootkatone-610 + CO2,Rep 4,54,4,4,walk away from treatment
+8-Sep-22,Li,10,Nootkatone-610 + CO2,Rep 4,64,14,14,walk away from treatment
+8-Sep-22,Li,10,Nootkatone-610 + CO2,Rep 4,68,18,18,walk away from treatment
+8-Sep-22,Li,10,Nootkatone-610 + CO2,Rep 4,79,29,29,walk away from treatment
+8-Sep-22,Li,10,Nootkatone-610 + CO2,Rep 5,49,-1,1,walk toward the treatment
+8-Sep-22,Li,10,Nootkatone-610 + CO2,Rep 5,54,4,4,walk away from treatment
+8-Sep-22,Li,10,Nootkatone-610 + CO2,Rep 5,48,-2,2,walk toward the treatment
+8-Sep-22,Li,10,Nootkatone-610 + CO2,Rep 5,68,18,18,walk away from treatment
+8-Sep-22,Li,10,Nootkatone-610 + CO2,Rep 5,68,18,18,walk away from treatment
+8-Sep-22,Li,10,Nootkatone-610 + CO2,Rep 5,71,21,21,walk away from treatment
+23-Aug-22,Li,10,Nootkatone-744 + CO2,Rep 1,79,29,29,walk away from treatment
+23-Aug-22,Li,10,Nootkatone-744 + CO2,Rep 1,58,8,8,walk away from treatment
+23-Aug-22,Li,10,Nootkatone-744 + CO2,Rep 1,81,31,31,walk away from treatment
+23-Aug-22,Li,10,Nootkatone-744 + CO2,Rep 1,8,-42,42,walk toward the treatment
+23-Aug-22,Li,10,Nootkatone-744 + CO2,Rep 1,38,-12,12,walk toward the treatment
+23-Aug-22,Li,10,Nootkatone-744 + CO2,Rep 2,66,16,16,walk away from treatment
+23-Aug-22,Li,10,Nootkatone-744 + CO2,Rep 2,72,22,22,walk away from treatment
+23-Aug-22,Li,10,Nootkatone-744 + CO2,Rep 2,76,26,26,walk away from treatment
+23-Aug-22,Li,10,Nootkatone-744 + CO2,Rep 2,81,31,31,walk away from treatment
+23-Aug-22,Li,10,Nootkatone-744 + CO2,Rep 2,84,34,34,walk away from treatment
+23-Aug-22,Li,10,Nootkatone-744 + CO2,Rep 2,76,26,26,walk away from treatment
+23-Aug-22,Li,10,Nootkatone-744 + CO2,Rep 2,80,30,30,walk away from treatment
+23-Aug-22,Li,10,Nootkatone-744 + CO2,Rep 2,12,-38,38,walk toward the treatment
+23-Aug-22,Li,10,Nootkatone-744 + CO2,Rep 2,30,-20,20,walk toward the treatment
+25-Aug-22,Li,10,Nootkatone-744 + CO2,Rep 3,50,0,0,No active
+25-Aug-22,Li,10,Nootkatone-744 + CO2,Rep 3,65,15,15,walk away from treatment
+25-Aug-22,Li,10,Nootkatone-744 + CO2,Rep 3,68,18,18,walk away from treatment
+25-Aug-22,Li,10,Nootkatone-744 + CO2,Rep 3,73,23,23,walk away from treatment
+25-Aug-22,Li,10,Nootkatone-744 + CO2,Rep 3,84,34,34,walk away from treatment
+25-Aug-22,Li,10,Nootkatone-744 + CO2,Rep 3,87,37,37,walk away from treatment
+25-Aug-22,Li,10,Nootkatone-744 + CO2,Rep 3,85,35,35,walk away from treatment
+25-Aug-22,Li,10,Nootkatone-744 + CO2,Rep 3,16,-34,34,walk toward the treatment
+25-Aug-22,Li,10,Nootkatone-744 + CO2,Rep 4,36,-14,14,walk toward the treatment
+25-Aug-22,Li,10,Nootkatone-744 + CO2,Rep 4,65,15,15,walk away from treatment
+25-Aug-22,Li,10,Nootkatone-744 + CO2,Rep 4,67,17,17,walk away from treatment
+25-Aug-22,Li,10,Nootkatone-744 + CO2,Rep 4,30,-20,20,walk toward the treatment
+25-Aug-22,Li,10,Nootkatone-744 + CO2,Rep 4,82,32,32,walk away from treatment
+25-Aug-22,Li,10,Nootkatone-744 + CO2,Rep 4,92,42,42,walk away from treatment
+25-Aug-22,Li,10,Nootkatone-744 + CO2,Rep 4,51,1,1,walk away from treatment
+25-Aug-22,Li,10,Nootkatone-744 + CO2,Rep 4,81,31,31,walk away from treatment
+9-Sep-22,Li,10,Nootkatone-744 + CO2,Rep 5,30,-20,20,walk toward the treatment
+9-Sep-22,Li,10,Nootkatone-744 + CO2,Rep 5,34,-16,16,walk toward the treatment
+9-Sep-22,Li,10,Nootkatone-744 + CO2,Rep 5,26,-24,24,walk toward the treatment
+9-Sep-22,Li,10,Nootkatone-744 + CO2,Rep 5,44,-6,6,walk toward the treatment
+9-Sep-22,Li,10,Nootkatone-744 + CO2,Rep 5,74,24,24,walk away from treatment
+9-Sep-22,Li,10,Nootkatone-744 + CO2,Rep 5,20,-30,30,walk toward the treatment
+9-Sep-22,Li,10,Nootkatone-744 + CO2,Rep 5,87,37,37,walk away from treatment
